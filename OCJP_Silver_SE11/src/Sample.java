@@ -22,3 +22,5 @@ public class Sample extends Test3 implements Test1, Test2 {
 		new Sample();
 	}
 }
+
+// class クラス名 extends スーパークラス implements インタフェース名1[, インタフェース名2, ...]
